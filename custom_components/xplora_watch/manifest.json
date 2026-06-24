@@ -1,13 +1,13 @@
 {
   "domain": "xplora_watch",
   "name": "Xplora® Watch",
-  "codeowners": ["@Ludy87"],
+  "codeowners": ["@acdcnow"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/Ludy87/xplora_watch/tree/main",
+  "documentation": "https://github.com/acdcnow/xplora_watch/tree/main",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/Ludy87/xplora_watch/issues",
+  "issue_tracker": "https://github.com/acdcnow/xplora_watch/issues",
   "requirements": [
     "aiofiles>=23",
     "pyxplora_api==2.12.9",
