@@ -1,8 +1,9 @@
 {
-    "name": "Xplora\u00ae Watch",
-    "zip_release": true,
-    "render_readme": true,
-    "homeassistant": "2026.6.4",
-    "hacs": "2.0.5",
-    "filename": "xplora_watch.zip"
+  "name": "Xplora Watch",
+  "content_in_root": false,
+  "zip_release": false,
+  "filename": null,
+  "manifest": "custom_components/xplora_watch/manifest.json",
+  "homeassistant": "2026.6.4",
+  "hacs": "2.0.0"
 }
