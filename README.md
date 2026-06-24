@@ -2,31 +2,6 @@
 
 Xplora® Watch Version 2 integration for Home Assistant
 
-> Warum geht es nicht weiter?
->
-> > Aufgrund der Sperrung seitens Xplora®, durch IP-Ban, wird die Applikation nicht weiter entwickelt, danke an @tom-winkler der eine offizelle Nachricht gepostet hat.
-> > ![428483653-4a335517-3759-45d5-8ce9-04e263ff0a37](https://github.com/user-attachments/assets/6bfa564d-81e1-48aa-92b8-b77a4eee6caf)
-
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=Ludy87&repository=xplora_watch&category=integration)\
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge&logo=home-assistant)](https://github.com/hacs/integration)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Ludy87/xplora_watch?style=for-the-badge&logo=github)](https://github.com/Ludy87/xplora_watch/releases)
-![GitHub Release Date](https://img.shields.io/github/release-date/Ludy87/xplora_watch?style=for-the-badge&logo=github)
-[![GitHub license](https://img.shields.io/github/license/Ludy87/xplora_watch?style=for-the-badge&logo=github)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Ludy87/xplora_watch?style=for-the-badge&logo=github)](https://github.com/Ludy87/xplora_watch/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Ludy87/xplora_watch?style=for-the-badge&logo=github)](https://github.com/Ludy87/xplora_watch/issues)\
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge&logo=code%20style-black)](https://github.com/psf/black)\
-![Github All Releases](https://img.shields.io/github/downloads/Ludy87/xplora_watch/total.svg?style=for-the-badge&logo=GitHub)\
-[![Validate with hassfest and HACS](https://github.com/Ludy87/xplora_watch/actions/workflows/hassfest.yaml/badge.svg)](https://github.com/Ludy87/xplora_watch/actions/workflows/hassfest.yaml)\
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9873/badge)](https://www.bestpractices.dev/projects/9873)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ludy87)
-
-[![✨ Wishlist from Amazon ✨](https://www.astra-g.org/wp-content/uploads/2022/09/amazon_wish.png)](https://smile.amazon.de/registry/wishlist/2MX8QK8VE9MV1)
-
----
-
-![Xplora® Watch Version 2](https://github.com/home-assistant/brands/blob/master/custom_integrations/xplora_watch/logo@2x.png?raw=true)
-
 ## 🚨 Important: Upgrading from version 2.8.3 or earlier to version 2.10.\* 🚨
 
 1. ⚠️back up your Homeassistant instance
